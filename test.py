@@ -21,9 +21,9 @@
 #     print("yes  x this is number")
 
 
-x = "STRING"
-if isinstance(x, str):
-    print("yes : " + x + " this is STRING")
+# x = "STRING"
+# if isinstance(x, str):
+#     print("yes : " + x + " this is STRING")
 
 # superlist = [10, 12 ,13]  ##  Check list if there we have 10 print super list
 # if  10 in superlist: ## here we cheking
